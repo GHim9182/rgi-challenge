@@ -7,7 +7,7 @@ Requirements:
 
 Default settings in Application.properties and pom.xml
 
-data.sql contains fake data for test (recreated on spring startup)
+data.sql contains dummy data for test (recreated on spring startup)
 
 Endpoints available:
 
